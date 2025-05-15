@@ -1,3 +1,4 @@
 mtcars
+mean(mtcars$mpg)
 str(mtcars)
-mean(m$mpg)
+
